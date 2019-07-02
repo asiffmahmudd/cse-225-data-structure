@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496728144 source:d:\nayeem\queue\src\queue.cpp
+	<iostream>
+	"queue.h"
+
+1496728088 d:\nayeem\queue\include\queue.h
+
+1496728287 source:d:\nayeem\queue\main.cpp
+	<iostream>
+	"queue.h"
+

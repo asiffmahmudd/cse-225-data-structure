@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1499223876 source:f:\tutorials\the new boston\language\c++\test\unsorted linked\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+
+1499223296 f:\tutorials\the new boston\language\c++\test\unsorted linked\unsortedtype.h
+
+1499223803 f:\tutorials\the new boston\language\c++\test\unsorted linked\unsortedtype.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1499223803 source:f:\tutorials\the new boston\language\c++\test\unsorted linked\unsortedtype.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1499223939 source:e:\nsu\5\cse225\lab\unsorted linked\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+
+1499223296 e:\nsu\5\cse225\lab\unsorted linked\unsortedtype.h
+
+1499223803 e:\nsu\5\cse225\lab\unsorted linked\unsortedtype.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1499223803 source:e:\nsu\5\cse225\lab\unsorted linked\unsortedtype.cpp
+	<iostream>
+	"UnsortedType.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1501340963 source:f:\nsu\5\cse225\lab\queue_assignment\main.cpp
+	<iostream>
+	"queue.h"
+
+1501339963 f:\nsu\5\cse225\lab\queue_assignment\queue.h
+
+1501341105 source:f:\nsu\5\cse225\lab\queue_assignment\queue.cpp
+	<iostream>
+	"queue.h"
+

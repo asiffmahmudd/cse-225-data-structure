@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509214972 source:f:\nsu\5\cse225\lab\assignment 2\rev_linked\lsit.cpp
+	"lsit.h"
+
+1509214972 f:\nsu\5\cse225\lab\assignment 2\rev_linked\lsit.h
+
+1446667744 source:f:\nsu\5\cse225\lab\assignment 2\rev_linked\main.cpp
+	<iostream>
+
