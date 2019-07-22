@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1563763364 source:c:\users\asif mahmud\desktop\homework 3\stacktype.cpp
+	<iostream>
+	"StackType.h"
+
+1563762986 c:\users\asif mahmud\desktop\homework 3\stacktype.h
+
+1563767242 source:c:\users\asif mahmud\desktop\homework 3\main.cpp
+	<iostream>
+	"StackType.h"
+	"StackType.cpp"
+	<string.h>
+
+1563763364 c:\users\asif mahmud\desktop\homework 3\stacktype.cpp
+	<iostream>
+	"StackType.h"
+
