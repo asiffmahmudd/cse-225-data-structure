@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590013659 source:c:\users\asif mahmud\desktop\problem2\graph.cpp
+	<iostream>
+	"Graph.h"
+
+1590013399 c:\users\asif mahmud\desktop\problem2\graph.h
+
+1590013695 source:c:\users\asif mahmud\desktop\problem2\main.cpp
+	<iostream>
+	"Graph.h"
+
