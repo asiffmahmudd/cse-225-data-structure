@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1566406036 source:c:\users\asif mahmud\desktop\lab homework\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1566405928 c:\users\asif mahmud\desktop\lab homework\quetype.h
+
+1566447420 source:c:\users\asif mahmud\desktop\lab homework\binarysearchtree.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"quetype.cpp"
+
+1566405845 c:\users\asif mahmud\desktop\lab homework\binarysearchtree.h
+	"QueType.h"
+
+1566406036 c:\users\asif mahmud\desktop\lab homework\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1566447167 source:c:\users\asif mahmud\desktop\lab homework\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1566447420 c:\users\asif mahmud\desktop\lab homework\binarysearchtree.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"quetype.cpp"
+
